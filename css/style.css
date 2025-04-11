@@ -1,0 +1,44 @@
+/* Toàn bộ trang web */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Header - phần đầu trang */
+header {
+    background-color: #f8caca;
+}
+
+/* Thanh menu */
+nav {
+    background-color: #ffe4b5;
+}
+
+/* Nội dung chính */
+main {
+    background-color: #e0ffff;
+    font-size: 18px;
+}
+
+/* Footer - phần cuối trang */
+footer {
+    background-color: #dcdcdc;
+}
+
+/* Danh sách li trong menu hoặc list */
+li {
+    display: inline-block;  /* nằm ngang */
+    width: 100px;          /* mỗi thằng rộng 100px */
+}
+
+/* Tiêu đề h1 */
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
+
+/* Đoạn văn p */
+p {
+    line-height: 1.8;   /* khoảng cách giữa các dòng */
+}
